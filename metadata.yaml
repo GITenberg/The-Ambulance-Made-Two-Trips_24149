@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7321
     wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24149#The-Ambulance-Made-Two-Trips
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-03'
 gutenberg_type: Text
